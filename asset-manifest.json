@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/saurabhkrsingh22/test.git/static/css/main.bb9cf799.css",
+    "main.js": "/saurabhkrsingh22/test.git/static/js/main.dfb0b8fc.js",
+    "static/js/453.33763cca.chunk.js": "/saurabhkrsingh22/test.git/static/js/453.33763cca.chunk.js",
+    "index.html": "/saurabhkrsingh22/test.git/index.html",
+    "main.bb9cf799.css.map": "/saurabhkrsingh22/test.git/static/css/main.bb9cf799.css.map",
+    "main.dfb0b8fc.js.map": "/saurabhkrsingh22/test.git/static/js/main.dfb0b8fc.js.map",
+    "453.33763cca.chunk.js.map": "/saurabhkrsingh22/test.git/static/js/453.33763cca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb9cf799.css",
+    "static/js/main.dfb0b8fc.js"
+  ]
+}
