@@ -1,0 +1,41 @@
+.ctable {
+    margin: 50px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .ctable table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .ctable th,
+  .ctable td {
+    padding: 12px 15px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .ctable th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+  }
+  
+  .ctable tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  .ctable tr:hover {
+    background-color: #f1f1f1;
+  }
+  
+  .ctable th {
+    color: #333;
+  }
+  
+  .ctable td {
+    color: #666;
+  }
+  
